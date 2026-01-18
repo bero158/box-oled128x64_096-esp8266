@@ -11,9 +11,9 @@ Wemos:
   
 How-to:
 1. Grab the stl files:
-  body: oled128x64_096-esp8266-back-coverback-cover-pad-chamfer.stl
-  back: oled128x64_096-esp8266-faceback-cover-blockers-pad.stl
-2. Slice it.
+  body: [oled128x64_096-esp8266-back-coverback-cover-pad-chamfer.stl](oled128x64_096-esp8266-back-coverback-cover-pad-chamfer.stl)
+  back: [oled128x64_096-esp8266-faceback-cover-blockers-pad.stl](oled128x64_096-esp8266-faceback-cover-blockers-pad.stl)
+2. Slice it. I choose settings: 0.15mm, structural, 25% fill, fuzzy cover. Material white PETG Prusament.
 
 Or you can use oled128x64_096-esp8266.3mf project for Prusa slicer.
 
