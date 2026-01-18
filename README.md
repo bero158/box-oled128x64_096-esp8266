@@ -1,7 +1,7 @@
 # box-oled128x64_096-esp8266
 3D printable box for Wemos ESP8266 D1 mini and 128x64 0.96'' OLED display
 
-This is a FreeCad 1.2 project of simple small box with display on the front.
+This is a [FreeCAD 1.2](https://github.com/FreeCAD/FreeCAD/releases/tag/1.0rc2) project of simple small box with display on the front.
 Only additional items you need is 4x M2x4 screws for display fitting. Alternatively you can glue the display with hot glue.
 
 Display:
